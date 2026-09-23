@@ -1,0 +1,47 @@
+#: locale=en
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_D445B73F_C9D3_D8CB_41CE_957C96CF0A1D.text =        MAIN  \
+ASTAVINAYAK  \
+     TEMPLE
+HotspotPanoramaOverlayTextImage_EE54905D_C9CE_D94F_41D8_FCD2ECF5EB7A.text = PUNE EXPRESSWAY MUMBAI
+
+## Media
+
+### Image
+imlevel_E82C2324_C9B6_F8FD_41E2_8060582EF4D7.url = media/panorama_C36610BE_C9B2_79CD_41E6_F60AD10AB666_HS_ambpbb1y_en.webp
+imlevel_D770E3FB_C9D2_DF54_41D1_43788273F485.url = media/panorama_C3665E30_C9B2_28D5_41C3_728061AB1B2E_HS_g76k8nkn_en.webp
+
+### Title
+panorama_C3662F3A_C9B2_28D5_41C9_CB3F257812BA.label = Temple of small corner
+panorama_C3650B6A_C9B2_2F75_41E5_C54318016776.label = before ending
+panorama_C366BDF2_C9B2_EB55_41D9_01F17BC63FD2.label = center
+panorama_C36604E5_C9B2_D97F_41C6_CD5782B14815.label = center of interial temple
+panorama_C366E741_C9B2_F8B4_41CA_8642CA9C9037.label = corner of main temple
+panorama_C366F11A_C9B2_D8D5_41DF_C5090248F74B.label = corner of walkway
+panorama_C3662A33_C9B2_28D4_41BB_9EAB47EBBF27.label = ending of walkway
+panorama_C366D340_C9B2_38B5_41D3_0036D8F98833.label = highway
+panorama_C3665E30_C9B2_28D5_41C3_728061AB1B2E.label = interial of asthvinayk temple
+panorama_C366B780_C9B2_67B4_41CB_59CECF9E4710.label = left side door
+panorama_C36610BE_C9B2_79CD_41E6_F60AD10AB666.label = location
+panorama_C3661A22_C9B2_68F5_41A8_6B62931F7C73.label = main gate
+panorama_C367E43C_C9B2_58CD_41DF_41A627BF5FAE.label = out of main gate
+panorama_C3664D46_C9B2_28BD_41BE_894773829CF4.label = right side door
+panorama_C367F63E_C9B2_38CD_41D2_790E6BD17021.label = starting of walkway
+panorama_C3663808_C9B3_E8B5_41E3_82FC11FB8F8C.label = temple top
+
+## Skin
+
+### Button
+Button_DE2B2E7C_C9D6_294D_41A3_B84640FF7AF8.label = INTERIOR
+Button_DEEFAB8D_C9D2_2FCC_41E4_3421D8A6C4F2.label = LOCATION
+Button_DF244A4F_C9D2_E94C_41CF_505F42306261.label = VIEW
+
+## Tour
+
+### Description
+
+### Title
+tour.name = mahaganpati september
